@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">应用名称</string>
+	<string name="stop">停止</string>
+    <string name="app_name_again">应用名称</string>
+	<string name="sure">确定</string>
+	<string name="start">开始</string>
+	<string name="make_sure">确定</string>
+</resources>
